@@ -1,2 +1,2 @@
 # hello-world
-Let's make my forst repository
+Let's make my first repository
